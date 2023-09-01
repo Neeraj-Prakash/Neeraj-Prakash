@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-prakash&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-prakash" /> </p>
 
-<p align="center"> <img src="https://miro.medium.com/v2/resize:fit:4800/0*CHs47eo87tMPd_-q.gif"  alt="gif"> </p>
+<p align="center"> <img src="https://github.com/Neeraj-Prakash/Neeraj-Prakash/blob/main/0_CHs47eo87tMPd_-q.gif"  alt="gif" height="300px" width="600px"> </p>
 
 - 🔭 I’m currently working at **TCS**
 
