@@ -5,11 +5,11 @@
 
 <p align="center"> <img src="https://github.com/Neeraj-Prakash/Neeraj-Prakash/blob/main/0_CHs47eo87tMPd_-q.gif"  alt="gif" height="300px" width="600px"> </p>
 
-- 🔭 I’m currently working at **TCS**
+- 🔭 I’m currently working at **Nielsen** as a **Senior Data Scientist**
 
-- 🌱 I’m currently learning **Survival Analysis**
+- 🌱 I’m currently learning **NLP**
 
-- 👯 I’m looking to collaborate on **Time Series Forecasting**
+- 👯 I’m looking to collaborate on **LLMs**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Data Analytics, SQL**
 
